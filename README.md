@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me
-I am a Media Informatics (B.Sc.) student with a strong interest in **cybersecurity, security automation, and applied security projects**.
+I am a Internet-Security (M.Sc.) and Media Informatics (B.Sc.) student with a strong interest in **cybersecurity, security automation, and applied security projects**.
 
 My focus is on building **practical, well-documented projects** that demonstrate:
 - security fundamentals,
