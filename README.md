@@ -28,7 +28,7 @@ I enjoy working at the intersection of **security, automation, and software syst
 ---
 
 ## 🚀 Featured Projects
-Here are some selected projects from my GitHub profile:
+Here are selected projects from my GitHub profile, focusing on practical cybersecurity concepts and hands-on learning:
 
 - **simple-log-analysis**  
   Basic log analysis to detect failed login attempts and potential brute-force behavior.
